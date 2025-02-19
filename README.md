@@ -1,6 +1,6 @@
 # PORTIFÓLIO
 ## Descrição:
-Nesse projeto criei um portifólio simples, pois estou iniciando agora na programação com as devidas tecnologias abaixo e aprendendo a cada erro e cada acerto.
+Nesse projeto criei um portifólio simples, pois estou iniciando agora na programação com as devidas tecnologias abaixo e aprendendo com cada erro e cada acerto.
 
 ### Tecnologias utilizadas:
 ![HTML](./css/IMG/html.png)

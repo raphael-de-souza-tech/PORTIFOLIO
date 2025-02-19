@@ -88,9 +88,9 @@ main #banner .banner-content  .banner-content-btn {
   cursor: pointer;
 }
 main #banner  .banner-image{
-  border-radius: 50%;
+  border-radius: 45%;
   width: 100%;
-  max-width: 300px;
+  max-width: 330px;
 }
 /* RESPONSIVIDADE DO BANNER E IMAGEM */
 @media (max-width: 920px){

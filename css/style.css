@@ -17,7 +17,7 @@ body{
 }
 header{
   background-color: azure;
-  height: 80px;
+  height: 70px;
 }
 /* BARRA DE NAVEGAÇÃO */
 header #navbar{
@@ -123,7 +123,7 @@ section#posts{
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 1rem 0;
+  padding: 1rem auto;
   
 }
 #posts .posts-content .posts-content-header .section-title{
@@ -136,20 +136,22 @@ section#posts{
 }
 #posts  .posts-cards{
   display: flex;
-  gap: 2rem;
+  gap: 30rem;
 }
 #posts  .posts-cards .post-card{
-  background-color: white;
+  background-color: #c9f5eaf7;
   gap: 2rem;
-  padding: 24px;
+  padding: 22px;
+  margin-bottom: 22px;
+  box-shadow: 1px 1px 4px 4px rgba(0, 0, 0, 0.2);
 }
 #posts  .posts-cards .post-card h3{
-  font-size: 26px;
+  font-size: 30px;
   font-weight: 200;
   margin-bottom: 37px;
 }
 #posts  .posts-cards .post-card span{
-  font-size: 18px;
+  font-size: 20px;
   font-weight: 300;
   margin-bottom: 22px;
   display: block;

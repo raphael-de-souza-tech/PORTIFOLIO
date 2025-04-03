@@ -46,6 +46,9 @@ header #navbar .nav-list {
   display: flex;
   align-items: center;
   gap: 2rem;
+  position: absolute;
+  right: 10%;
+  margin-right: 14rem;
 }
 
 header #navbar .nav-list .nav-item a {
@@ -101,7 +104,7 @@ main #banner-content .banner-text {
   display: flex;
   flex-direction: column;
   margin-left: 2rem;
-  margin-top: 0;
+  margin-top: 10rem;
 }
 
 /* ESTILO DAS REDES SOCIAIS */
